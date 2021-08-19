@@ -1,0 +1,151 @@
+html{
+	background-color:#836FFF;
+}
+
+header{
+	background-color:#836FFF;
+}
+
+.corpo {
+       	padding-top: 20px;
+        background: #483D8B;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center
+}
+
+	.conteudo {
+        width: 1000px;
+        padding: 10px;
+        background: #fff;
+        font-size: 20px;
+
+}
+
+#logo{
+	width: 200px;
+	padding: 0px 0px 0px 0px;
+}
+#foto1{
+	width: 300px;
+	padding: 0px 10px 0px 0px;
+}
+
+#foto2{
+	width: 300px;
+	padding: 0px 0px 0px 10px;
+}
+
+#foto3{
+	width: 200px;
+	padding: 0px 10px 0px 0px;
+}
+
+#menu{
+    background-color: #191970;
+    padding-left: 35px;
+    font-family: monospace;
+}
+
+#menu ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+
+#menu ul li a:hover {
+    background-color: rgb(24, 139, 233);
+}
+
+#menu ul li a{
+	color: #FFF;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+}
+
+#foto4{
+	width: 230px;
+	padding: 0px 10px 2px 0px;
+}
+
+#tchanmusic{
+	padding: 0px 35px 2px 10px;
+}
+
+#rnmusic{
+	padding: 0px 10px 2px 10px;
+}
+
+#foto6{
+	width: 300px;
+	padding: 0px 0px 2px 10px;
+}
+
+
+#pmusic{
+	padding: 0px 45px 2px 10px;
+}
+
+#foto7{
+	width: 350px;
+	padding: 0px 10px 2px 0px;
+}
+
+#foto8{
+	width: 300px;
+	padding: 0px 0px 2px 10px;
+}
+
+#foto9{
+	width: 250px;
+	padding: 0px 10px 2px 0px;
+}
+
+#foto10{
+	width: 200px;
+	padding: 0px 10px 2px 0px;
+}
+
+#foto11{
+	width: 300px;
+	padding: 0px 0px 2px 10px;
+}
+
+#foto12{
+	width: 250px;
+	padding: 0px 0px 2px 10px;
+}
+
+#foto13{
+	width: 250px;
+	padding: 0px 0px 2px 10px;
+}
+
+.rodape {
+	background-color:whitesmoke ;
+	padding: 0px 10px 5px 0px;
+}
+
+.linha{
+	width: 97.55vw;
+	height: 10px;
+	background-color: #191970;
+}
+
+.trodape{
+	padding: 0px 0px 0px 10px;
+}
